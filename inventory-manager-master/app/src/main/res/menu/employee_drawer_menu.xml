@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="General"
+    tools:ignore="HardcodedText">
+    <menu>
+        <item
+            android:id="@+id/all_logs"
+            android:icon="@drawable/ic_baseline_all_inbox_24"
+            android:title="All Logs" />
+    </menu>
+</item>
+
+</menu>
